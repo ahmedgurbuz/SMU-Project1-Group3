@@ -12,7 +12,7 @@ We do not have direct access to drivers to confirm that the entries in the data 
 
 
 ## QUESTIONS  & HYPOTHESES
-- Do Uber rides occur more often after work?
+- Do Uber rides occur more often after work? /n
     Hypothesis: There will be a higher prevalence of Uber rides after 5:00 PM in NYC
 - Which date of the year is Uber ride requested more?
     Hypothesis: There will be more trips per day on Christmas and New Year’s Day in NYC
