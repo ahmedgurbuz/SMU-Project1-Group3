@@ -34,6 +34,17 @@ We do not have direct access to drivers to confirm that the entries in the data 
 
 ![](seasonaltrips.png)
 ![](stayneighborhood_distance_heatmap.png)
+![](stayneighborhood_distance_heatmap.png)
+![](relationshipbetweennewyearandrest.png)
+![](Trip_dist_vs_duration.png)
+![](Tripsperhr.png)
+The highest number of trips occurred between 7pm – 8pm
+
+![](Tripspermonthpng.png)
+
+
+
+
 
 
 
