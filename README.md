@@ -14,18 +14,18 @@ We do not have direct access to drivers to confirm that the entries in the data 
 ## QUESTIONS  & HYPOTHESES
 - Do Uber rides occur more often after work? <br/>
     Hypothesis: There will be a higher prevalence of Uber rides after 5:00 PM in NYC
-- Which date of the year is Uber ride requested more?
+- Which date of the year is Uber ride requested more? <br/>
     Hypothesis: There will be more trips per day on Christmas and New Year’s Day in NYC
-- What is the relationship between trip distance and trip duration?
-    Hypothesis: There is a positive correlation between trip distance and trip duration in NYC
+- What is the relationship between trip distance and trip duration? <br/>
+    Hypothesis: There is a positive correlation between trip distance and trip duration in NYC <br/>
     Hypothesis: 95% of the variance in trip duration is explained by trip distance in NYC
-- What are popular pick-up and drop-off locations?
+- What are popular pick-up and drop-off locations? <br/>
     Hypothesis: Some pick-up and drop-off locations will be more popular to others
-- What is the relationship between staying in the same neighborhood and distance?
+- What is the relationship between staying in the same neighborhood and distance? <br/>
     Hypothesis: There is a strong association between distance travelled and whether you stay or leave the neighborhood
-- What is the relationship between leaving the neighborhood and distance?
+- What is the relationship between leaving the neighborhood and distance? <br/>
     Hypothesis: There is a negative correlation between Staying in the Neighborhood and the Distance traveled
-- What is the difference of trip distance on New Year’s Eve and average trip distance?
+- What is the difference of trip distance on New Year’s Eve and average trip distance? <br/>
     Hypothesis: Trip distance on New Year’s is longer than average trip distance in NYC
 
 ## DATA ANALYSIS & DATA VISUALIZATION
