@@ -40,3 +40,10 @@ We do not have direct access to drivers to confirm that the entries in the data 
 
 
 Please see the full report at https://github.com/ahmedgurbuz/SMU-Project1-Group3/blob/master/report.pdf 
+
+GROUP MEMBERS:</br>
+[Ahmed Gurbuz](https://github.com/ahmedgurbuz "Ahmed Gurbuz") </br>
+[Akuete Kpodar](https://github.com/akuetesmu "Akuete Kpodar") </br>
+[Harry Chapman](https://github.com/jharrychapman "Harry Chapman") </br>
+[Nahielys La Fontaine](https://github.com/NMLaFontaine "Nahielys La Fontaine") </br>
+[Rebekah Vinson](https://github.com/simsrebek "Rebekah Vinson")
